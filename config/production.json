@@ -1,0 +1,6 @@
+{
+	"mongoURI":"mongodb+srv://vipul:vipul@dev.juoeh.mongodb.net/testDB?retryWrites=true&w=majority",
+	"jwtSecret":"thes3cr3tfile",
+	"gitAuth":"ca4d489b6a0834d3a161",
+	"gitAuthSecret":"5a6e042f3e7bc0cd7d8d7507bf491859d598df5a"
+}
